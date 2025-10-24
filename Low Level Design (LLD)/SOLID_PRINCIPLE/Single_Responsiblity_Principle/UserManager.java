@@ -1,4 +1,4 @@
-package Single_Responsiblity_Principle;
+package SOLID_PRINCIPLE.Single_Responsiblity_Principle;
 
 /*Solid Principles:
 In the Single Responsibility Principle (SRP), each class should be responsible for a single part or functionality o…

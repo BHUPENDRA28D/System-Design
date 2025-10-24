@@ -1,4 +1,4 @@
-package Single_Responsiblity_Principle;
+package SOLID_PRINCIPLE.Single_Responsiblity_Principle;
 /*
     SRP - Solid Reponsiblity Principle -so this is principal tell us that each class should slove only one or minmum things.
     >> therfore we created class for varouis methodes.
